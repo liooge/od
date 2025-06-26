@@ -6,7 +6,7 @@
 # Blog: https://p3terx.com
 #=================================================
 
-name: Multi-Arch Images
+name: OP-Arch Images
 
 env:
   PREFIX_URL: https://downloads.immortalwrt.org/snapshots/targets
